@@ -1,0 +1,17 @@
+# Java Doc
+* Nos ayuda a comprender que hace el codigo
+* Genera documentación en HTML
+
+Los Java Docs son una herramienta usada por muchas otras herramientas y aplicaciones porque nos ayuda a documentar todo nuestro código usando comentarios. Además, nos permite visualizar la documentación en formato HTML.
+
+~~~
+// Comentarios de una sola línea 
+ 
+/* Comentario 
+* en múltiples 
+* líneas */ 
+ 
+/** 
+* Comentario para Java Docs 
+* */ 
+~~~
